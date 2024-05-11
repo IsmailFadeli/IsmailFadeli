@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @IsmailFadeli
 - 👀 I’m interested in Data Science / R / Python
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ism.fadeli@gmail.com
 
 <!---
